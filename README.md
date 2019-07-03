@@ -1,2 +1,10 @@
 # mPDF-Implemention-In-Core-PHP
-How to implement mPDF in core php
+
+simply run composer install
+
+then you notice that vendor folfer is created in root directory 
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+$mpdf = new \Mpdf\Mpdf();
+
