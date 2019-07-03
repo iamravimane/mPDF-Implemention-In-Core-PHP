@@ -4,7 +4,7 @@ simply run composer install
 
 then you notice that vendor folfer is created in root directory 
 
-require_once __DIR__ . '/vendor/autoload.php';
+load: require_once __DIR__ . '/vendor/autoload.php';
 
-$mpdf = new \Mpdf\Mpdf();
+then create object of Mpdf:$mpdf = new \Mpdf\Mpdf();
 
