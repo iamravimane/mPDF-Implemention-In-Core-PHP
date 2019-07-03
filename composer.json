@@ -1,0 +1,13 @@
+{
+    "name": "mpdf use to create pdf",
+    "description": "create pdf using mPDF",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "iamravimane",
+            "email": "ravimane1991@gmail.com"
+        }
+    ]
+}
